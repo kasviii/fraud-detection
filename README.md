@@ -271,7 +271,7 @@ pytest tests/test_api_ci.py -v
 
 ## 🤖 AI Tools Used
 
-Claude (Anthropic) assisted with pipeline design, code structure, and documentation. All model training, evaluation, and system integration was executed and verified manually.
+Claude (Anthropic) assisted with code structure, and documentation.
 
 ---
 

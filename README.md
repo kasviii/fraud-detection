@@ -201,6 +201,8 @@ Metrics tracked:
 - Fraud score distribution
 - Predictions per minute
 
+![Grafana Dashboard](data/screenshots/grafana_dashboard.png)
+
 ### Traffic Simulator
 Simulate realistic transaction traffic:
 ```bash

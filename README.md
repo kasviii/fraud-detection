@@ -90,6 +90,8 @@ Download the pre-trained models from Google Drive and place them in the `models/
 - `scaler.pkl`
 - `feature_config.pkl`
 
+[Google Drive Folder](https://drive.google.com/drive/folders/1nNSRoIwk6bzAtyEQDpbaOF8oTF4R_jxm?usp=drive_link)
+
 > To retrain from scratch, open `notebooks/Untitled1.ipynb` in Google Colab and run all cells.
 
 ### 3. Start all services

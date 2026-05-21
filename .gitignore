@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/*.pkl
+models/*.keras
+data/creditcard.csv
+*.avi
+*.mp4
+*.zip

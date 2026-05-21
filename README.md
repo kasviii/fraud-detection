@@ -250,6 +250,14 @@ pytest tests/test_api_ci.py -v
 - Final score > 0.5 → fraud
 - Risk levels: LOW (<0.3), MEDIUM (0.3-0.6), HIGH (0.6-0.8), CRITICAL (>0.8)
 
+### EDA
+![EDA Overview](data/eda_overview.png)
+
+### XGBoost Results  
+![XGBoost Results](data/xgboost_results.png)
+
+### Ensemble Comparison
+![Ensemble Results](data/ensemble_results.png)
 ---
 
 ## ⚠️ Limitations & Future Work
